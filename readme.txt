@@ -14,8 +14,6 @@ smartholiday-anki/target/appassembler/bin$ ./anki /home/user/workspace/smartholi
 
 
 
-
-The test unit takes input file from src/test/resources/input.dat
+The test unit "AnkiGameServiceTest" takes input file from src/test/resources/input.dat
 and compare the result with the output file expected
 src/test/resources/output.dat
-
