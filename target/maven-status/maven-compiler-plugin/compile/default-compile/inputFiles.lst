@@ -1,0 +1,8 @@
+/home/user/workspace/smartholiday-anki/src/main/java/com/smartholiday/team/gaming/anki/enums/EAnkiColor.java
+/home/user/workspace/smartholiday-anki/src/main/java/com/smartholiday/team/gaming/anki/utils/Md5HexaGenerator.java
+/home/user/workspace/smartholiday-anki/src/main/java/com/smartholiday/team/gaming/anki/model/Party.java
+/home/user/workspace/smartholiday-anki/src/main/java/com/smartholiday/team/gaming/anki/utils/CardQuestionComparator.java
+/home/user/workspace/smartholiday-anki/src/main/java/com/smartholiday/team/gaming/anki/service/interfaces/IAnkiGameService.java
+/home/user/workspace/smartholiday-anki/src/main/java/com/smartholiday/team/gaming/anki/main/AnkiGameMan.java
+/home/user/workspace/smartholiday-anki/src/main/java/com/smartholiday/team/gaming/anki/service/impl/AnkiGameService.java
+/home/user/workspace/smartholiday-anki/src/main/java/com/smartholiday/team/gaming/anki/model/Card.java
